@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kaustubh Deokar",
+  "description":"Some description",
+  "keywords":["freecodecamp","project","task","3"],
+  "license":"MIT",
+  "version":"1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
